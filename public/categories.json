@@ -1,0 +1,37 @@
+[
+    {
+        "product_id": "0",
+        "category": "All-Products",
+        "availability": true
+    },
+{
+    "product_id": "1",
+    "category": "Laptops",
+    "availability": true
+},
+{
+"product_id": "2",
+"category": "Phones",
+"availability": true
+},
+{
+    "product_id": "3",
+    "category": "Accessories",
+    "availability": true
+},
+{
+    "product_id": "4",
+    "category": "SmartWatch",
+    "availability": true
+},
+{
+    "product_id": "5",
+    "category": "MacBook",
+    "availability": true
+},
+{
+   "product_id": "6",
+    "category": "Iphone",
+    "availability": true 
+}
+]

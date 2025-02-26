@@ -1,0 +1,191 @@
+ [
+    {
+        "product_id": "1",
+        "product_title": "Laptop Pro 15",
+        "product_image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?q=80&w=1232&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Laptops",
+        "price": 1299.99,
+        "description": "High-performance laptop with sleek design and powerful features.",
+        "Specification": [
+            "Processor: Intel i7",
+            "RAM: 16GB",
+            "Storage: 512GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.7,
+        "warranty": "1 year"
+    },
+    {
+        "product_id": "2",
+        "product_title": "Smartphone X12",
+        "product_image": "https://images.unsplash.com/photo-1633053699034-459674171bec?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Phones",
+        "price": 799.99,
+        "description": "Cutting-edge smartphone with an amazing camera and display.",
+        "Specification": [
+           " Display: 6.5 inches",
+            "Camera: 108MP",
+            "Battery: 4500mAh"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "color_options": ["Black", "White", "Blue"]
+    },
+    {
+        "product_id": "3",
+        "product_title": "Wireless Earbuds",
+        "product_image": "https://images.unsplash.com/photo-1617350142147-7403b8fb9889?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Accessories",
+        "price": 129.99,
+        "description": "Enjoy high-quality sound with these comfortable wireless earbuds.",
+        "Specification": [
+            "Battery life: 24 hours",
+            "Water-resistant: IPX5",
+            "Bluetooth: 5.0"
+        ],
+        "availability": true,
+        "rating": 4.5,
+        "additional_features": ["Touch controls", "Voice assistant compatibility"]
+    },
+    {
+        "product_id": "4",
+        "product_title": "MacBook Air 2023",
+        "product_image": "https://images.unsplash.com/photo-1693845243832-c973c6b37b6c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "MacBook",
+        "price": 999.99,
+        "description": "Lightweight and powerful, perfect for students and professionals.",
+        "Specification": [
+           "Processor: Apple M1",
+            "RAM: 8GB",
+            "Storage: 256GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.9,
+        "features": ["Retina display", "Long battery life"]
+    },
+    {
+        "product_id": "5",
+        "product_title": "SmartWatch Series 5",
+        "product_image": "https://images.unsplash.com/photo-1533675180235-0ba57d720b51?q=80&w=1271&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "SmartWatch",
+        "price": 199.99,
+        "description": "Keep track of your health and stay connected with style.",
+        "Specification": [
+            "Heart rate monitor",
+            "Water-resistant",
+            "Battery life: 18 hours"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "color_options": ["Black", "Silver", "Rose Gold"]
+    },
+    {
+        "product_id": "6",
+        "product_title": "MacBook Pro 16",
+        "product_image": "https://images.unsplash.com/photo-1675868375030-7f0811726dfe?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "MacBook",
+        "price": 2399.99,
+        "description": "Professional-grade MacBook for creatives.",
+        "Specification": [
+            "Processor: Apple M1 Pro",
+            "RAM: 16GB",
+            "Storage: 1TB SSD"
+        ],
+        "availability": true,
+        "rating": 4.9,
+        "features": ["Liquid Retina XDR display", "High-performance graphics"]
+    },
+    {
+        "product_id": "7",
+        "product_title": "Wireless Earbuds",
+        "product_image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?q=80&w=1289&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Accessories",
+        "price": 129.99,
+        "description": "Enjoy high-quality sound with these comfortable wireless earbuds.",
+        "Specification": [
+            "Battery life: 24 hours",
+            "Water-resistant: IPX5",
+            "Bluetooth: 5.0"
+        ],
+        "availability": true,
+        "rating": 4.5,
+        "additional_features": ["Touch controls", "Voice assistant compatibility"]
+    },
+    {
+        "product_id": "P008",
+        "product_title": "Gaming Laptop 17",
+        "product_image": "https://images.unsplash.com/photo-1501676491272-7bbd3e71f7e1?q=80&w=1138&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Laptops",
+        "price": 29.99,
+        "description": "Fast wireless charging for your devices.",
+        "Specification": [
+            "Compatibility: Qi-enabled devices",
+            "Output: 10W"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "design": "Sleek and compact"
+    },
+    {
+        "product_id": "9",
+        "product_title": "Laptop Accessories Kit",
+        "product_image": "https://images.unsplash.com/photo-1511844941619-5eadcd3735e6?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Laptops",
+        "price": 59.99,
+        "description": "Complete kit for all your laptop needs.",
+        "Specification": [
+            "Includes: Mouse, Keyboard cover, Screen cleaner"
+        ],
+        "availability": true,
+        "rating": 4.5,
+        "compatible_with": ["Most laptops"]
+    },
+    {
+        "product_id": "10",
+        "product_title": "Gaming Laptop 17",
+        "product_image": "https://plus.unsplash.com/premium_photo-1681160405580-a68e9c4707f9?q=80&w=1065&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Laptops",
+        "price": 1599.99,
+        "description": "Powerful gaming laptop with immersive graphics.",
+        "Specification": [
+            "Processor: Intel i9",
+            "RAM: 32GB",
+            "Storage: 1TB SSD"
+        ],
+        "availability": false,
+        "rating": 4.8,
+        "cooling_system": "Advanced cooling"
+    },
+    {
+        "product_id": "11",
+        "product_title": "Wireless Earbuds",
+        "product_image": "https://images.unsplash.com/photo-1505236273191-1dce886b01e9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "Accessories",
+        "price": 999.99,
+        "description": "Lightweight and powerful, perfect for students and professionals.",
+        "Specification": [
+            "Processor: Apple M1",
+            "RAM: 8GB",
+            "Storage: 256GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.9,
+        "features": ["Retina display", "Long battery life"]
+    },
+    {
+        "product_id": " 12",
+        "product_title": "Smartphone X12",
+        "product_image": "https://images.unsplash.com/photo-1598965402089-897ce52e8355?q=80&w=1036&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": " Phones",
+        "price": 799.99,
+        "description": "Cutting-edge smartphone with an amazing camera and display.",
+        "Specification": [
+            "Display: 6.5 inches",
+            "Camera: 108MP",
+            "Battery: 4500mAh"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "color_options": ["Black", "White", "Blue"]
+    }
+]
