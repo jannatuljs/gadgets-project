@@ -23,12 +23,12 @@ const routes= createBrowserRouter([
           path:'/',
           element:<Home/>
         },
+        
         {
-          path:'/category/:id',
-          element: <Cards/>,
-          loader: ({params}) => fetch (`../../public/products.json/${params.id}`)
-          },
-         
+          path: "/category",
+          element: <Cards />,
+          loader: () => fetch("../products.json"),
+        },
         
         {
        path:'/Product/:product_id',

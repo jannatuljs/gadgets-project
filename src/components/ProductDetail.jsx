@@ -15,7 +15,7 @@ const ProductDetail = () => {
   const [cart, setCart] = useState([]);
   const product = data.find((product) => product.product_id === product_id);
   const { product_image, product_title, price, description, Specification, rating, availability } = product || {};
-
+   
   // Cart context to update the cart count
   const { cartCount, addToCart } = useContext(CartContext);
   const { addToWishList } = useContext(WishListContext);
@@ -24,11 +24,11 @@ const ProductDetail = () => {
     addToCartLocalStorage(product);
     addToCart();
 
-   
+  
 
     // Show success message using Toastify
     toast.success('Item added to cart successfully!', {
-      position: toast.POSITION.TOP_RIGHT,
+      
       autoClose: 3000, // Hide the toast after 3 seconds
     });
   };
@@ -38,7 +38,7 @@ const ProductDetail = () => {
       setShowButton(true);
       addToWishList();
     };
-
+ 
   return (
     <div className="bg-purple-500 h-52 mb-80">
       <h3 className="text-center text-2xl font-bold mb-2 text-white">Product Details</h3>
